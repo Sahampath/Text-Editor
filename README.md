@@ -4,7 +4,6 @@
 
 ### This is a simple text editor Application using python (PyQt5). 
 
-Sample Image:
 <h2 align="center">
 <img src="https://images2.imgbox.com/51/5f/zVE0Afr6_o.jpg" width="200">
 </h2>
@@ -12,9 +11,9 @@ Sample Image:
 <h3 align="center"> <a href="https://github.com/Sahampath">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sahampath?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> </h3>
     
-<h4 align="center"> <img src="https://img.shields.io/github/downloads/Sahampath/Simple-Calculator/total?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/github/stars/Sahampath/Simple-Calculator?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/github/forks/Sahampath/Simple-Calculator?style=for-the-badge&logo=appveyor"> </h4>
+<h4 align="center"> <img src="https://img.shields.io/github/downloads/Sahampath/Text-Editor/total?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/stars/Sahampath/Text-Editor?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/forks/Sahampath/Text-Editor?style=for-the-badge&logo=appveyor"> </h4>
 
 ##
 
