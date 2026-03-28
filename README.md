@@ -3,7 +3,7 @@
 ### This is a simple text editor Application using python (PyQt5). 
 
 <h2 align="center">
-<img src="https://images2.imgbox.com/51/5f/zVE0Afr6_o.jpg" width="200">
+<img src="https://images2.imgbox.com/51/5f/zVE0Afr6_o.jpg" width="700">
 </h2>
 
 <h3 align="center"> <a href="https://github.com/Sahampath">
